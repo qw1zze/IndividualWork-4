@@ -1,0 +1,15 @@
+C:\Projects_C#\SamWork\SamWork\bin\Debug\net6.0\SamWork.exe
+C:\Projects_C#\SamWork\SamWork\bin\Debug\net6.0\SamWork.deps.json
+C:\Projects_C#\SamWork\SamWork\bin\Debug\net6.0\SamWork.runtimeconfig.json
+C:\Projects_C#\SamWork\SamWork\bin\Debug\net6.0\SamWork.dll
+C:\Projects_C#\SamWork\SamWork\bin\Debug\net6.0\SamWork.pdb
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.csproj.AssemblyReference.cache
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.AssemblyInfoInputs.cache
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.AssemblyInfo.cs
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.csproj.CoreCompileInputs.cache
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.dll
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\refint\SamWork.dll
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.pdb
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\SamWork.genruntimeconfig.cache
+C:\Projects_C#\SamWork\SamWork\obj\Debug\net6.0\ref\SamWork.dll

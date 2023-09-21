@@ -1,0 +1,14 @@
+D:\SamWork\SamWork\bin\Debug\net6.0\IndividaulWork-4.exe
+D:\SamWork\SamWork\bin\Debug\net6.0\IndividaulWork-4.deps.json
+D:\SamWork\SamWork\bin\Debug\net6.0\IndividaulWork-4.runtimeconfig.json
+D:\SamWork\SamWork\bin\Debug\net6.0\IndividaulWork-4.dll
+D:\SamWork\SamWork\bin\Debug\net6.0\IndividaulWork-4.pdb
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.AssemblyInfoInputs.cache
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.AssemblyInfo.cs
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.csproj.CoreCompileInputs.cache
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.dll
+D:\SamWork\SamWork\obj\Debug\net6.0\refint\IndividaulWork-4.dll
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.pdb
+D:\SamWork\SamWork\obj\Debug\net6.0\IndividaulWork-4.genruntimeconfig.cache
+D:\SamWork\SamWork\obj\Debug\net6.0\ref\IndividaulWork-4.dll
